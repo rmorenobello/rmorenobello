@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raúl Moreno Bello.
 - 🌱 I’m currently learning Data Science.
-- 💞️ My Gists are just notes taken quickly, mainly on Data Warehousing (ETL tools and DB techniques)
+- 💞️ My Gists are just notes taken quickly, mainly on Oracle SQL and Data Warehousing (ETL tools and DB techniques)
 <!-- - 📫 How to reach me ... --->
 
 <!---
